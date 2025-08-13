@@ -10,11 +10,6 @@ This project analyzes retail sales performance using Python for data cleaning an
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard Screenshot](images/dashboard_preview.png)
-
----
-
 ## 📂 Project Structure
 - **data/** – datasets used in the analysis
 - **notebooks/** – Jupyter notebooks for cleaning & transformation
