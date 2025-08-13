@@ -31,14 +31,11 @@ This project analyzes retail sales performance using Python for data cleaning an
 ---
 
 ## 📈 Key Insights
-- Top customers contribute X% of revenue
+- Top 10 customers contribute 6.7% of revenue
 - West region shows highest profit margin
-- Category Y has declining sales trend
+- Category Technology, Sub Category Machines has declining sales trend
 
 ---
 
-## 🚀 How to Use
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YourUsername/Retail-Store-Performance-Analysis.git
+
 
