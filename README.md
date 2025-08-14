@@ -4,9 +4,9 @@
 This project analyzes retail sales performance using Python for data cleaning and Power BI for visualization.
 
 **Key Features:**
-- Data cleaning & preprocessing in Python
-- Sales performance dashboard in Power BI
-- Customer segmentation & geographical analysis
+- Data cleaning & preprocessing in Python.
+- Sales performance dashboard in Power BI.
+- Customer segmentation & geographical analysis.
 
 ---
 
